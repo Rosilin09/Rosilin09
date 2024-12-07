@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://files.oaiusercontent.com/file-GCT6TemYRpn11ZsHnCkqwH?se=2024-12-07T17%3A48%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc0fe975b-4f92-4fad-a4e1-cb69d9f28620.webp&sig=cdcSYDTmVRTqS34dzOZfc1M037fxZ2nSkdndkH4gQdc%3D">
+<img align="right" alt="Coding" width="250" height="250" src="https://files.oaiusercontent.com/file-GCT6TemYRpn11ZsHnCkqwH?se=2024-12-07T17%3A48%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc0fe975b-4f92-4fad-a4e1-cb69d9f28620.webp&sig=cdcSYDTmVRTqS34dzOZfc1M037fxZ2nSkdndkH4gQdc%3D">
 
 <br/>
 
