@@ -42,7 +42,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=rosilin09&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="github stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Rosilin09&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="github stats"/>
 
 
   <img width=390 src="https://leetcard.jacoblin.cool/Rosilin09?theme=dark&font=Tiro%20Tamil" alt="leetcode stats" />
